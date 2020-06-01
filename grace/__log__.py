@@ -82,3 +82,10 @@ Traceback (most recent call last):
   module <module> line 2
     from _spy.vitollino.main import Cena, Element, STYLE
 '''},
+{'date': 'Mon Jun 01 2020 14:05:57.928 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  Elemento(VADER, x=100, y=300, w=200,y=300, cena=praia)
+                                       ^
+SyntaxError: keyword argument repeated
+'''},

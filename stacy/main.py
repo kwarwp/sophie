@@ -7,3 +7,4 @@ class  HOTDOG():
 casa=Cena(img=CASA)
 sthich =Elemento(img=STHICH)
 casa.vai()
+hotdog()

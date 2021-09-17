@@ -5,3 +5,4 @@ CASA= "https://resizedimgs.zapimoveis.com.br/crop/272x224/vr.images.sp/54dfc9f4a
 BART= "https://minilua.com/wp-content/uploads/2011/05/cartoons011_thumb.jpg"
 class bartsimpson ( ):
 casa=Cena(img=CASA)
+bart= Elemento(img=BART)

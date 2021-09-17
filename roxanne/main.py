@@ -6,3 +6,5 @@ SAITAMINHA= "https://www.disneyria.com.br/wp-content/uploads/2019/12/olaf-alivio
 class kaka():
 casa=Cena(img=CASA)
 saitaminha=Elemento(img=SAITAMINHA)
+casa.vai()
+saitaminha()

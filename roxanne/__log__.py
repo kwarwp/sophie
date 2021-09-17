@@ -84,3 +84,10 @@ Traceback (most recent call last):
     casa.vai()
 NameError: name 'casa' is not defined
 '''},
+{'date': 'Fri Sep 17 2021 15:39:45.758 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  casa.vai():
+             ^
+SyntaxError: invalid syntax
+'''},

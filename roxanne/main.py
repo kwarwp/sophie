@@ -7,4 +7,4 @@ class kaka():
 	casa=Cena(img=CASA)
 	saitaminha=Elemento(img=SAITAMINHA)
 	casa.vai()
-saitaminha()
+kaka()

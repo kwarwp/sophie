@@ -6,3 +6,5 @@ HINATA="https://besthqwallpapers.com/Uploads/25-2-2019/81790/thumb2-hinata-hyuga
 class flojinha():
 casa=Cena(img=CASA)
 personagen=Elemento(img=HINATA)
+casa.vai()
+hinata()

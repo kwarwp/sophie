@@ -6,3 +6,4 @@ STHICH="https://e7.pngegg.com/pngimages/620/826/png-clipart-lilo-stitch-lilo-pel
 class  HOTDOG():
 casa=Cena(img=CASA)
 sthich =Elemento(img=STHICH)
+casa.vai()

@@ -6,3 +6,4 @@ BART= "https://minilua.com/wp-content/uploads/2011/05/cartoons011_thumb.jpg"
 class bartsimpson ( ):
 casa=Cena(img=CASA)
 bart= Elemento(img=BART)
+bart

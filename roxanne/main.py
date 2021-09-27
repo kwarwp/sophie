@@ -7,5 +7,6 @@ class kaka():
     def __init__ (self):
 	self.casa=Cena(img=CASA)
 	self.saitaminha=Elemento(img=SAITAMINHA)
+	self.saitaminha.entra(self.casa)
 	self.casa.vai()
 kaka()

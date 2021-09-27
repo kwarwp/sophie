@@ -5,4 +5,5 @@ MANSAO="jpg ou png"
 CLARK="jpg ou png"
 class KING ():
     def __init__(self): 
-        
+        self.mansao=cena(img=mansao)
+        self.clark=elemento(img=CLARK

@@ -139,3 +139,10 @@ NameError: name 'saitaminha' is not defined
     saitaminha()
 NameError: name 'saitaminha' is not defined
 '''},
+{'date': 'Mon Sep 27 2021 07:54:37.313 GMt-1000 (Horário Padrão do Havaí e Ilhas Aleutas) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  def __ init __ (self):
+          ^
+SyntaxError: invalid syntax
+'''},

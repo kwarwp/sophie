@@ -8,6 +8,6 @@ class KING ():
         self.mansao=cena(img=mansao)
         self.clark=elemento(img=clark)
         self.casa.vai()
-        KING()
+KING()
         
         

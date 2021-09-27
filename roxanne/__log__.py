@@ -153,3 +153,10 @@ SyntaxError: invalid syntax
         ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Sep 27 2021 07:55:09.224 GMt-1000 (Horário Padrão do Havaí e Ilhas Aleutas) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  kaka():
+         ^
+SyntaxError: invalid syntax
+'''},

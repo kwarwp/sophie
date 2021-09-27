@@ -146,3 +146,10 @@ NameError: name 'saitaminha' is not defined
           ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Sep 27 2021 07:54:55.653 GMt-1000 (Horário Padrão do Havaí e Ilhas Aleutas) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  self casa=Cena(img=CASA)
+        ^
+SyntaxError: invalid syntax
+'''},

@@ -160,3 +160,10 @@ SyntaxError: invalid syntax
          ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Sep 27 2021 08:08:14.989 GMt-1000 (Horário Padrão do Havaí e Ilhas Aleutas) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  self.saitaminha.entra(self.casa)
+  ^
+IndentationError: unexpected indent
+'''},

@@ -7,6 +7,6 @@ class  HOTDOG():
     def __init__(self):
 	self.casa=Cena(img=CASA)
 	self.sthich =Elemento(img=STHICH)
-	self.sthich.entrar(self.casa)
+	self.sthich.entra(self.casa)
 	self.casa.vai()
 HOTDOG()

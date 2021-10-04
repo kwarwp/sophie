@@ -49,3 +49,10 @@ SyntaxError: EOL while scanning string literal
                                                                                       ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Mon Oct 04 2021 14:53:49.297 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 4
+  CASte36="https://img.elo7.com.br/product/original/2F882F8/fundo-fotografico-em-tecido-castelo-2-20x1-50m-backdrop.jpg
+                                                                                                                       ^
+SyntaxError: EOL while scanning string literal
+'''},

@@ -257,3 +257,10 @@ TypeError: 'module' object is not callable
     	self.casa=Cena(img=CASA)
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Mon Oct 04 2021 15:14:28.325 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  furia= "https://e7.pngegg.com/pngimages/816/446/png-clipart-hiccup-horrendous-haddock-iii-how-to-train-your-dragon-astrid-toothless-others-dragon-fictional-character.png
+                                                                                                                                                                           ^
+SyntaxError: EOL while scanning string literal
+'''},

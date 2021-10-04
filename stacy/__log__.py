@@ -42,3 +42,10 @@ AttributeError: 'Elemento' object has no attribute 'entrar'
                                                                         ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Mon Oct 04 2021 14:49:24.541 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 4
+  CASA = "https://img.freepik.com/vetores-gratis/bela-casa_24877-50819.jpg?size=626&ex
+                                                                                      ^
+SyntaxError: EOL while scanning string literal
+'''},

@@ -115,3 +115,10 @@ NameError: name 'MASAO' is not defined
     self.masao.vai()
 AttributeError: 'OLAF' object has no attribute 'masao'
 '''},
+{'date': 'Mon Oct 04 2021 08:27:59.64 GMt-1000 (Horário Padrão do Havaí e Ilhas Aleutas) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  self.masao.vai():
+                   ^
+SyntaxError: invalid syntax
+'''},

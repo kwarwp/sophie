@@ -35,3 +35,10 @@ AttributeError: 'HOTDOG' object has no attribute 'sthitch'
     	self.sthich.entrar(self.casa)
 AttributeError: 'Elemento' object has no attribute 'entrar'
 '''},
+{'date': 'Mon Oct 04 2021 14:46:24.175 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 5
+  STHICH="https://e7.pngegg.com/pngimages/620/826/png-clipart-lilo-stitc
+                                                                        ^
+SyntaxError: EOL while scanning string literal
+'''},

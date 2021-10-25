@@ -99,3 +99,10 @@ Traceback (most recent call last):
   module <module> line 3
     from _spy.vitollino.main import IVENTARIO as INV
 '''},
+{'date': 'Mon Oct 25 2021 07:29:58.588 GMt-1000 (Horário Padrão do Havaí e Ilhas Aleutas) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 18
+  bartsimpson():
+                ^
+SyntaxError: invalid syntax
+'''},

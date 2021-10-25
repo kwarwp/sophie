@@ -8,3 +8,5 @@ class bartsimpson ( ):
 	bart= Elemento(img=BART)
 	casa.vai()
 bartsimpson()
+PREDIO= "https://i.pinimg.com/originals/ff/30/4e/ff304e7727b7782d04e0eecb5b238eb8.jpg"
+WANDINHA="https://images.uncyc.org/pt/thumb/9/9a/Familia-addams-2-05.jpg/300px-Familia-addams-2-05.jpg"

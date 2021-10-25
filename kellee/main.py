@@ -1,4 +1,4 @@
-# sophie.kellee.main.py/joao stefhanny alves/ 
+# sophie.kellee.main.py/joao stefhanny alves 
 from _spy.vitollino.main import Cena,Elemento,Texto
 from _spy.vitollino.main import INVETARIO as inv
 CASA ="https://imagensemoldes.com.br/wp-content/uploads/2020/05/Condom%C3%ADnio-Casa-PNG-1280x720.png"

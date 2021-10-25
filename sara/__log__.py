@@ -204,3 +204,10 @@ AttributeError: 'bartsimpson' object has no attribute 'casa'
     	casa.vai()
 NameError: name 'casa' is not defined
 '''},
+{'date': 'Mon Oct 25 2021 07:34:14.556 GMt-1000 (Horário Padrão do Havaí e Ilhas Aleutas) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 18
+  casa.vai():
+             ^
+SyntaxError: invalid syntax
+'''},

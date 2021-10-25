@@ -10,5 +10,9 @@ class bartsimpson ( ):
 	bart= Elemento(img=BART)
 	predio=Cena(img=PREDIO)
 	wandinha=Elemento(img=WANDINHA) 
+	self.casa.direita=self.casa
+	self.predio.esquerda=self.predio
+	self.bart.entra(self.casa)
+	self.wandinha.entra(self.predio)
 	casa.vai()
 bartsimpson()
